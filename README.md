@@ -6,7 +6,7 @@ This is the github reposity of an academic project at the EiCNAM. (LTspice model
 - Developing the methodological skills necessary to effectively plan and manage a technical project.
 - Designing an inverter leg that meets project specifications.
 - Simulating a full inverter on LTspice.
-- Eperimenting with different controllers (Proportional / Hysterisis) 
+- Experimenting with different controllers & evaluating current control system performance (Proportional / Hysterisis). 
 
 
 
