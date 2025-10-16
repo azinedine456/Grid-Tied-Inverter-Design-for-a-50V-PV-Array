@@ -14,6 +14,7 @@ This is the github reposity of an academic project at the EiCNAM.
 
 ## Simulation Results (Hysterisis Controller)
 <img width="800" height="480" alt="TEK00016" src="https://github.com/user-attachments/assets/09620835-e3fe-4911-a918-1831ca616ee6" />
+
 -Pink: Current 
 -Red: Current Reference
 -Blue: Grid Voltage
