@@ -1,6 +1,6 @@
 # Grid-Tied-Inverter-Design-for-a-50V-PV-Array
 
-This is the github reposity of an academic project at the EiCNAM.
+This is the github reposity of an academic project at the EiCNAM. (LTspice model uses the [LTspiceControlLibrary-master](https://github.com/kanedahiroshi/LTspiceControlLibrary) library.) 
 
 ## Project Objectives 
 - Developing the methodological skills necessary to effectively plan and manage a technical project.
