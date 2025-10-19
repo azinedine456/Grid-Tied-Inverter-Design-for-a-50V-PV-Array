@@ -21,3 +21,8 @@ This is the github reposity of an academic project at the EiCNAM. (LTspice model
 -Pink: Current 
 -Red: Current Reference
 -Blue: Grid Voltage
+
+
+## Sizing xlsx File Overview
+<img width="1603" height="729" alt="image" src="https://github.com/user-attachments/assets/a99efdc9-8a24-4396-9ccd-e30e8a82384d" />
+
